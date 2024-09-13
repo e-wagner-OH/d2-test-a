@@ -1,0 +1,3 @@
+[submodule "d2-test-b"]
+	path = d2-test-b
+	url = https://github.com/e-wagner-OH/d2-test-b.git
